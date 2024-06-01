@@ -62,8 +62,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Swayamkh02&repo=Ciphertix&theme=radical" alt="Ciphertix">
   </a>
   <br>
-  <a href="https://github.com/Swayamkh02/portfolio" style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Swayamkh02&repo=portfolio&theme=radical" alt="Portfolio">
+  <a href="https://github.com/Swayamkh02/AEBT" style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Swayamkh02&repo=AEBT&theme=radical" alt="AEBT">
   </a>
 </p>
 
