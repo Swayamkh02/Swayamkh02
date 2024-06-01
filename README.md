@@ -23,11 +23,8 @@ I'm a passionate Student with a love for Technology and Innovation. I enjoy work
 
 ## 📈 GitHub Stats
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swayamkh02&show_icons=true&theme=radical" alt="Your GitHub Stats" style="width: 48%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swayamkh02&layout=compact&theme=radical" alt="Top Languages" style="width: 48%;">
-</div>
-
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Swayamkh02&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Swayamkh02&layout=compact&theme=radical)
 ## 🔥 Streak Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swayamkh02&theme=radical)
