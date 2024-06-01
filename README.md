@@ -56,14 +56,15 @@
 
 <h2 align="center">📌 Pinned Repositories</h2>
 
-<div style="display: flex; justify-content: space-between;">
+<p align="center">
   <a href="https://github.com/Swayamkh02/Ciphertix" style="flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Swayamkh02&repo=Ciphertix&theme=radical" alt="Ciphertix">
   </a>
+  <br><br>
   <a href="https://github.com/Swayamkh02/portfolio" style="flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Swayamkh02&repo=portfolio&theme=radical" alt="Portfolio">
   </a>
-</div>
+</p>
 
 
 
