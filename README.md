@@ -29,6 +29,10 @@ I'm a passionate Student with a love for Technology and Innovation. I enjoy work
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Swayamkh02&theme=radical)
 
+## 📊 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Swayamkh02&theme=radical" width="100%"/>
+
 ## 📌 Pinned Repositories
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Swayamkh02&repo=Ciphertix&theme=radical)](https://github.com/Swayamkh02/Ciphertix)
