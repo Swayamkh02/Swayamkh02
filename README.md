@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/SwayamKh_02?style=social)](https://x.com/SwayamKh_02)
 [![Linkedin: swayamkhandelwal](https://img.shields.io/badge/-swayamkhandelwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swayamkhandelwal/)](https://www.linkedin.com/in/swayamkhandelwal/)
 [![Instagram: swayamkh_02](https://img.shields.io/badge/-swayamkh_02-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/swayamkh_02/)](https://www.instagram.com/swayamkh_02/)
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Swayamkh02.Swayamkh02)](https://github.com/Swayamkh02)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSwayamkh02%2FSwayamkh02&countColor=%23263759&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSwayamkh02%2FSwayamkh02)
 
 ## 🚀 About Me
 
@@ -13,7 +13,6 @@ I'm a passionate Student with a love for Technology and Innovation. I enjoy work
 - 🌱 I’m currently learning AI&ML
 - 💬 Ask me about New interesting Tech
 - 📫 How to reach me: [swayamkhandelwal02@gmail.com](mailto:swayamkhandelwal02@gmail.com)
-- ⚡ Fun fact: [Something Interesting About You]
 
 ## 🛠️ Skills
 
@@ -38,11 +37,3 @@ I'm a passionate Student with a love for Technology and Innovation. I enjoy work
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Swayamkh02&repo=Ciphertix&theme=radical)](https://github.com/Swayamkh02/Ciphertix)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Swayamkh02&repo=portfolio&theme=radical)](https://github.com/Swayamkh02/portfolio)
 
-## 🌐 Connect with Me
-
-- Portfolio: [https://swayamkh02.github.io/portfolio](https://swayamkh02.github.io/portfolio)
-- Twitter: [https://x.com/SwayamKh_02](https://x.com/SwayamKh_02)
-- LinkedIn: [https://www.linkedin.com/in/swayamkhandelwal/](https://www.linkedin.com/in/swayamkhandelwal/)
-- Instagram: [https://www.instagram.com/swayamkh_02/](https://www.instagram.com/swayamkh_02/)
-- GitHub: [https://github.com/Swayamkh02](https://github.com/Swayamkh02)
-- Email: [swayamkhandelwal02@gmail.com](mailto:swayamkhandelwal02@gmail.com)
